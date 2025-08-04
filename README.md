@@ -1,2 +1,6 @@
-# giovnaluz
+
 <h1 align="center"> GitHub Profile README
+
+<a href="https://twitter.com/httpgiovna" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
+<br>
+
